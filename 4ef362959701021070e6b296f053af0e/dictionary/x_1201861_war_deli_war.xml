@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4684ae199741021070e6b296f053afe2" extends="task" label="war" max_length="40" name="x_1201861_war_deli_war" type="collection">
+        <element label="escalation mazor" max_length="40" name="escalation_mazor" type="boolean"/>
+    </element>
+</database>

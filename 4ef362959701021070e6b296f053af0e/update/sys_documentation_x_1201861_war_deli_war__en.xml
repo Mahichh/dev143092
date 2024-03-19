@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="war" language="en" table="x_1201861_war_deli_war">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>war</label>
+            <language>en</language>
+            <name>x_1201861_war_deli_war</name>
+            <plural>wars</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-19 06:41:44</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>war</sys_name>
+            <sys_package display_value="War delivery" source="x_1201861_war_deli">4ef362959701021070e6b296f053af0e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="War delivery">4ef362959701021070e6b296f053af0e</sys_scope>
+            <sys_update_name>sys_documentation_x_1201861_war_deli_war__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-19 06:41:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
